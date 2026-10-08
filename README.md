@@ -1,4 +1,8 @@
-# Flutter Clean Architecture Project Template: Basic Template
+# Flutter App project: Conquest tracking with Pagsangkap serries
+
+Design reference:
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e92a0cdc-8a36-4ef5-9180-0b7d9e75dc92" />
+
 
 ***A Very Opinionated Flutter Project Template***
 
@@ -14,21 +18,17 @@ Powered by the [Very Good CLI][very_good_cli_link] 🤖
 
 Please check other branch to see other template.
 
-- Mobile (Not available yet)
-- Multiplatform (Not available yet)
+- Mobile (Android & IOS)
 
 ---
 
 ## How to Use 🎮
 
-Using this template is easy.
+App is using Clean Architecture: 
 
-1. Choose template from branch.
-2. Press use this template button.
-3. Create your repository.
-4. Clone your repository.
-5. Rename package name from `dev.flutterclean.template` to your liking.
-6. Rename the project name from `template` to your need.
+see: https://resocoder.com/2019/08/27/flutter-tdd-clean-architecture-course-1-explanation-project-structure/
+
+Items:
 
 Snackbar Flash
 
