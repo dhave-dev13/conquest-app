@@ -4,19 +4,7 @@ Design reference:
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e92a0cdc-8a36-4ef5-9180-0b7d9e75dc92" />
 
 
-***A Very Opinionated Flutter Project Template***
-
-![coverage][coverage_badge]
-[![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
-[![License: MIT][license_badge]][license_link]
-
-Powered by the [Very Good CLI][very_good_cli_link] 🤖
-
----
-
-## Available Templates 📃
-
-Please check other branch to see other template.
+## Clean Architecture Templates 📃
 
 - Mobile (Android & IOS)
 
