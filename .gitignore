@@ -144,3 +144,5 @@ app.*.map.json
 !.idea/codeStyles/
 !.idea/dictionaries/
 !.idea/runConfigurations/
+# Widget Preview related
+.widget_preview/
